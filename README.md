@@ -24,9 +24,9 @@
   The FrankensteinList class is a doubly linked list that maintains an ascending and descending order of its elements, and provides methods for adding, inserting, removing, and printing nodes.
   
 ## Methods
-  1.add(T value): Adds a node at the end of the list.
-  2.insert(T value, int position): Inserts a node at a specific position.
-  3.pop(): Removes the last node.
-  4.remove(int position): Removes a node at the given position.
-  5.print(): Prints the list in normal, ascending, and descending order.
-  6.Iterators: getNIterator(), getPIterator(), getAIterator(), getDIterator().
+  add(T value): Adds a node at the end of the list.
+  insert(T value, int position): Inserts a node at a specific position.
+  pop(): Removes the last node.
+  remove(int position): Removes a node at the given position.
+  print(): Prints the list in normal, ascending, and descending order.
+  Iterators: getNIterator(), getPIterator(), getAIterator(), getDIterator().

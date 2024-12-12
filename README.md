@@ -2,7 +2,7 @@
   A generic doubly linked list implementation in Java that maintains both ascending and descending order representations. Supports numeric types that are comparable (T extends Number & Comparable<T>).
 
 ## Features
-  Generic: Supports numeric types (Number and Comparable<T>).
+  .Generic: Supports numeric types (Number and Comparable<T>).
   Doubly Linked List: Efficient traversal with next/prev pointers.
   Sorted Lists: Automatically maintains ascending and descending order.
   Iterators: Traverse the list in normal, reverse, ascending, or descending order.
